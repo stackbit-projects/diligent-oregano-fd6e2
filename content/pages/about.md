@@ -3,7 +3,7 @@ title: About
 sections:
   - type: hero_section
     title: Jhonny Callisaya
-    subtitle: About Page Demo
+    subtitle: Web Developers
     align: center
     background_color: secondary
   - type: features_section
